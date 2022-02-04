@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+
+*{
+  font-family: 'Bakbak One', cursive;
+}
+.info-container {
+  width: 100%;
+  
+  background-color: rgb(3, 96, 235);
+  color: rgb(255, 255, 255);
+  
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+}
+
+
+
+.info div{
+  text-align: center;
+}
+.boton{
+ margin-top: 10px;
+ 
+ justify-content: center;
+ display: flex;
+ 
+
+}
+.title h1{
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.info img {
+  padding: 20px;
+  width: 50%;
+  height: 100%;
+  
+ 
+  
+  
+}
+
+button{
+  border: none;
+  padding: 17px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+
+}
+
+
+@media only screen and (max-width: 960px) {
+  .info-container {
+    display: block;
+    height: 100%;
+    width: 100%;
+    
+    
+  }
+  .info img {
+    padding: 20px;
+    width: 80%;
+    height: 100%;
+    
+   
+    
+    
+  }
+  .title h1{
+    font-size: 2rem;
+  }
+  .info{
+    display: block;
+    text-align: center;
+
+  }
+
+  .title{
+    padding-top: 50px;
+    padding-inline: 10px;
+  }
+}
