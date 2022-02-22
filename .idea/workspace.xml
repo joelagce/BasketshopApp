@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22064591-ffe5-4691-bc2a-a2008c611203" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Products/producto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/producto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/requestMethods.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/requestMethods.js" afterDir="false" />
-    </list>
+    <list default="true" id="22064591-ffe5-4691-bc2a-a2008c611203" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +38,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="176" width="597" height="548" key="find.popup" timestamp="1644897489019">
+    <state x="50" y="142" width="597" height="548" key="find.popup" timestamp="1645137006225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="176" width="597" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1644897489019" />
+    <state x="50" y="142" width="597" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1645137006225" />
   </component>
 </project>
